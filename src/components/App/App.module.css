@@ -1,0 +1,15 @@
+/* src/components/App/App.module.css */
+.container {
+  max-width: 900px; /* Залиште або змініть за потреби */
+  margin: 50px auto; /* Додайте верхній/нижній відступ та автоматичні бічні відступи для центрування */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
